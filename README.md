@@ -1,10 +1,13 @@
 # my-gallery-challenge
+
 Create a static page with HTML and CSS following the designs. You can give it your personal styles by using different images or text.
 
 - What was your experience?
 - What have you learned/improved?
 
 I learn a lot more about using grid - as I have mostly used flexbox.
+
+I have finally done a static page on my own. Now I have to just keep going.
 
 <h1 align="center">{Mohammed}</h1>
 
@@ -28,6 +31,5 @@ I learn a lot more about using grid - as I have mostly used flexbox.
   </h3>
 </div>
 
-
-- GitHub [@your-username](https://{github.com/a6di})
-- Twitter [@your-twitter](https://{twitter.com/A6di____})
+- GitHub [@a6di](https://{github.com/a6di})
+- Twitter [@A6di\_\_\_\_](https://{twitter.com/A6di____})
