@@ -30,6 +30,3 @@ I have finally done a static page on my own. Now I have to just keep going.
     </a>
   </h3>
 </div>
-
-- GitHub [@a6di](https://{github.com/a6di})
-- Twitter [@A6di\_\_\_\_](https://{twitter.com/A6di____})
