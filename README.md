@@ -17,11 +17,11 @@ I have finally done a static page on my own. Now I have to just keep going.
 
 <div align="center">
   <h3>
-    <a href="https://{a6di.github.io/my-gallery-challenge/}">
+    <a href="https://{github.com/A6di/my-gallery-challenge}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/A6di/my-gallery-challenge}">
+    <a href="https://github.com/A6di/my-gallery-challenge">
       Solution
     </a>
     <span> | </span>
